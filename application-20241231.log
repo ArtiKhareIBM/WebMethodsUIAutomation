@@ -1,0 +1,1034 @@
+2024-12-31 11:17:10.447 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:17:10.450 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:17:15.362 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:17:15.364 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:17:16.406 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:17:16.407 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:17:16.407 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:17:16.407 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:17:17.893 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:17:18.747 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:17:18.747 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:17:19.948 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:17:19.948 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:17:22.734 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:17:22.737 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:17:23.911 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:17:23.912 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:17:23.912 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:17:23.912 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:17:25.782 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:17:27.138 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:18:47.676 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:18:47.680 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:18:50.797 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:18:50.799 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:18:51.787 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:18:51.787 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:18:51.787 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:18:51.787 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:18:53.132 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:18:53.931 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:18:53.931 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:18:54.872 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:18:54.873 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:18:57.621 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:18:57.621 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:18:58.810 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:18:58.811 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:18:58.811 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:18:58.811 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:19:00.578 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:19:01.807 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:20:12.085 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:20:12.091 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:20:15.326 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:20:15.328 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:20:16.811 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:20:16.811 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:20:16.811 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:20:16.812 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:20:17.879 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:20:18.664 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:20:18.664 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:20:19.549 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:20:19.550 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:20:21.310 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:20:21.311 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:20:21.709 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:20:21.710 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:20:21.710 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:20:21.710 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:20:23.486 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:20:24.731 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:22:20.379 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:22:20.382 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:22:24.542 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:22:24.543 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:22:26.068 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:22:26.069 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:22:26.069 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:22:26.069 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:22:27.164 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:22:27.983 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:22:27.984 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:22:28.895 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:22:28.895 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:22:31.651 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:22:31.652 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:22:32.052 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:22:32.053 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:22:32.054 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:22:32.054 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:22:33.665 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:22:34.944 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:24:45.782 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:24:45.786 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:24:48.689 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:24:48.691 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:24:49.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:24:49.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:24:49.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:24:49.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:24:50.936 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:24:51.735 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:24:51.735 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:24:55.206 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:24:55.207 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:24:56.963 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:24:56.963 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:24:58.131 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:24:58.131 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:24:58.132 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:24:58.132 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:24:59.726 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:25:01.058 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:31:32.664 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:31:32.668 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:31:36.906 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:31:36.908 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:31:38.448 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:31:38.448 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:31:38.448 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:31:38.449 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:31:39.549 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:31:40.349 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:31:40.349 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:31:43.638 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:31:43.639 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:31:45.983 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:31:45.984 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:31:47.150 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:31:47.151 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:31:47.151 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:31:47.151 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:31:48.729 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:31:50.052 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:35:02.206 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:35:02.209 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:35:06.585 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:35:06.586 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:35:07.576 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:35:07.576 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:35:07.576 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:35:07.576 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:35:09.278 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:35:10.144 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:35:10.145 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:35:13.818 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:35:13.819 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:35:17.271 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:35:17.272 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:35:18.428 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:35:18.428 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:35:18.428 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:35:18.429 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:35:20.262 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:35:21.510 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:39:14.557 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:39:14.560 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:39:17.363 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:39:17.365 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:39:18.345 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:39:18.345 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:39:18.345 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:39:18.346 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:39:19.562 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:39:20.365 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:39:20.365 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:39:23.794 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:39:23.794 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:39:25.455 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:39:25.456 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:39:26.636 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:39:26.637 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:39:26.637 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:39:26.637 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:39:28.302 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:39:29.518 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:48:01.618 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:48:01.620 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:48:05.529 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:48:05.531 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:48:08.011 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:48:08.011 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:48:08.012 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:48:08.012 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:48:09.324 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:48:10.133 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:48:10.133 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:48:13.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:48:13.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:48:15.414 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:48:15.415 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:48:16.579 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:48:16.579 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:48:16.580 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:48:16.580 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:48:18.108 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:48:19.382 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:49:36.397 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:49:36.400 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:49:40.048 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:49:40.050 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:49:42.021 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:49:42.021 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:49:42.021 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:49:42.021 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:49:43.313 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:49:44.100 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:49:44.100 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:49:48.041 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:49:48.042 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:49:50.708 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:49:50.708 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:49:51.112 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:49:51.112 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:49:51.112 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:49:51.112 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:49:52.746 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:49:53.982 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:55:12.111 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 11:55:12.115 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:55:17.540 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:55:17.542 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 11:55:18.537 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 11:55:18.537 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:55:18.537 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:55:18.538 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:55:19.689 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:55:20.536 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 11:55:20.536 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 11:55:24.148 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 11:55:24.149 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:55:26.598 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 11:55:26.599 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 11:55:27.778 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 11:55:27.778 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 11:55:27.779 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 11:55:27.779 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 11:55:29.517 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 11:55:30.764 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:02:43.429 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:02:43.432 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:02:47.377 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:02:47.380 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:02:49.235 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:02:49.235 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:02:49.235 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:02:49.235 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:02:50.438 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:02:51.246 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 12:02:51.246 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:02:54.775 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:02:54.775 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:02:56.465 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:02:56.465 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:02:57.649 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:02:57.650 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:02:57.650 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:02:57.650 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:02:59.284 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:03:00.654 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:08:11.328 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:08:11.332 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:08:15.221 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:08:15.222 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:08:16.220 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:08:16.220 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:08:16.221 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:08:16.221 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:08:17.828 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:08:18.610 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - projectName : ICUI_ Project ID flda34269d71e14c11ee0c82
+2024-12-31 12:08:18.611 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:08:21.876 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - ERTName : ICFeatures_ Project ID []
+2024-12-31 12:08:21.877 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all Keystores
+2024-12-31 12:08:23.356 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all Partner Certificate
+2024-12-31 12:08:24.063 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all RADS
+2024-12-31 12:08:24.793 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":0,"description":"Success"},"serviceData":{"stageName":"stage00","fetchReferences":false,"projectName":"flda34269d71e14c11ee0c82","rads":[],"projectAlias":"ICUI_AutomationProjectACL"}}}
+2024-12-31 12:08:24.811 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all work flow
+2024-12-31 12:08:25.597 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all flow services
+2024-12-31 12:08:26.304 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all Triggers
+2024-12-31 12:08:27.060 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete PROJECT
+2024-12-31 12:08:32.386 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"output":{"message":"Project deleted successfully."}}
+2024-12-31 12:08:32.386 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:08:32.595 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:08:32.595 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:08:34.287 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:08:34.288 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:08:35.436 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:08:35.437 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:08:35.437 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:08:35.437 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:08:37.058 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:08:38.295 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:20:31.209 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:20:31.212 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:20:36.268 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:20:36.272 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:20:37.257 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:20:37.257 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:20:37.258 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:20:37.258 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:20:38.504 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:20:39.301 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:20:42.529 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - ERTName : ICFeatures_ Project ID [f7e8b0c93a1245fab890d176d525591b, 78ccedc1806d464d8b4dc3e03ed0114e, 9853f1579b21402a90d6e8b5c5abdff6, b45e13952a0d4e54be8ea98b7d0be1cb, 33eb37eb64f242208616104807eb6623, 17d8488b86974e0597b5a16b1ded0e5d, 148f16c49aeb4258aa73862e4990f579, a8d841c5980848399ac62106d7de482e, 89d9ac01d2d54d0e9b33d9804fc0d711, f801e5068feb45f7acd67b9289577329, a64028a5a71447cda1da0495a2e57ecc, cd994d9059cd411fa4e71f6a9831f26c, 481eba35c2a04e05bf0bb7451e644e71, 2b1598d5523449f19088855a1c1dc13f, efa1ca8a76044985abee6440a9d887e0, 037a50ce81d34a61be9000b48ef2f05b]
+2024-12-31 12:20:42.529 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all Keystores
+2024-12-31 12:20:43.660 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all Partner Certificate
+2024-12-31 12:20:44.353 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all RADS
+2024-12-31 12:20:45.055 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":0,"description":"Success"},"serviceData":{"stageName":"stage00","fetchReferences":false,"rads":[],"projectName":"default","projectAlias":"Default"}}}
+2024-12-31 12:20:45.085 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete all work flow
+2024-12-31 12:20:45.370 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:20:45.370 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:20:47.985 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:20:47.986 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:20:49.166 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:20:49.166 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:20:49.167 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:20:49.167 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:20:50.721 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:20:52.041 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:34:02.405 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:34:02.409 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:34:09.370 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:34:09.372 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:34:11.046 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:34:11.046 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:34:11.047 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:34:11.047 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:34:12.111 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:34:12.928 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:34:16.340 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:17.017 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:17.017 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:17.704 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:17.704 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:18.390 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:18.390 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:19.066 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:19.066 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:19.744 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:19.744 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:20.429 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:20.430 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:21.106 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:21.107 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:21.778 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:21.778 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:22.458 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:22.459 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:23.130 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:23.131 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:23.815 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:23.815 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:24.531 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:24.531 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:25.202 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:25.202 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:25.875 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:25.875 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:26.563 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:26.564 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:34:27.233 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:34:27.438 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:34:27.438 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:34:29.323 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:34:29.324 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:34:30.511 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:34:30.511 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:34:30.511 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:34:30.512 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:34:32.074 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:34:33.285 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:43:32.022 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:43:32.024 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:43:35.677 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:43:35.680 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:43:36.693 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:43:36.693 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:43:36.694 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:43:36.694 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:43:38.089 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:43:38.882 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:43:42.172 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:42.870 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:42.870 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:43.559 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:43.561 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:44.248 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:44.248 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:44.922 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:44.922 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:45.602 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:45.602 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:46.280 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:46.280 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:46.985 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:46.985 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:47.672 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:47.674 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:48.368 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:48.368 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:49.058 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:49.058 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:49.760 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:49.760 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:50.437 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:50.438 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:51.118 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:51.118 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:51.799 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:51.799 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:52.482 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:52.483 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:43:53.153 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:43:53.332 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:43:53.333 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:43:55.898 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:43:55.899 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:43:57.064 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:43:57.064 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:43:57.065 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:43:57.065 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:43:58.703 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:43:59.925 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:45:41.878 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:45:41.882 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:45:46.776 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:45:46.778 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:45:48.408 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:45:48.408 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:45:48.409 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:45:48.410 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:45:49.497 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:45:50.290 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:45:53.663 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:54.337 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:54.337 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:55.048 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:55.048 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:55.740 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:55.740 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:56.427 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:56.427 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:57.102 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:57.102 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:57.785 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:57.786 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:58.464 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:58.464 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:59.158 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:59.159 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:45:59.832 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:45:59.833 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:46:00.509 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:46:00.510 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:46:01.196 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:46:01.197 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:46:01.881 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:46:01.881 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:46:02.553 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:46:02.553 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:46:03.244 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:46:03.244 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:46:03.927 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:46:03.927 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:46:04.635 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:46:04.855 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:46:04.855 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:46:07.555 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:46:07.556 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:46:08.726 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:46:08.726 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:46:08.726 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:46:08.727 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:46:10.343 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:46:11.617 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:49:46.778 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:49:46.780 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:49:49.327 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:49:49.330 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:49:50.963 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:49:50.963 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:49:50.963 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:49:50.963 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:49:52.178 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:49:52.954 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:49:56.319 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:49:57.064 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:49:57.064 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:49:57.763 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:49:57.764 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:49:58.440 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:49:58.441 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:49:59.164 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:49:59.164 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:49:59.851 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:49:59.851 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:00.522 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:00.523 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:01.192 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:01.192 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:01.922 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:01.922 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:02.637 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:02.638 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:03.352 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:03.352 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:04.096 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:04.096 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:04.813 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:04.814 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:05.553 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:05.553 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:06.278 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:06.278 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:07.008 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:07.008 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:50:07.732 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:50:07.938 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:50:07.939 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:50:09.683 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:50:09.684 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:50:10.861 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:50:10.861 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:50:10.862 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:50:10.862 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:50:12.593 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:50:13.823 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:56:00.511 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 12:56:00.513 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:56:04.149 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:56:04.152 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 12:56:05.160 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 12:56:05.161 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:56:05.161 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:56:05.161 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:56:06.378 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:56:07.221 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 12:56:10.249 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:10.924 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:10.924 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:11.595 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:11.596 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:12.276 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:12.276 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:12.949 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:12.949 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:13.619 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:13.619 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:14.334 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:14.334 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:15.032 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:15.033 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:15.710 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:15.710 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:16.379 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:16.380 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:17.062 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:17.062 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:17.747 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:17.747 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:18.469 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:18.469 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:19.213 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:19.213 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:19.927 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:19.927 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:20.642 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:20.643 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 12:56:21.374 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 12:56:21.573 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 12:56:21.573 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:56:23.309 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 12:56:23.309 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 12:56:24.461 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 12:56:24.461 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 12:56:24.461 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 12:56:24.462 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 12:56:26.186 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 12:56:27.401 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:01:05.899 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 13:01:05.902 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:01:10.709 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:01:10.712 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 13:01:11.699 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 13:01:11.699 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:01:11.699 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:01:11.699 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:01:13.169 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:01:13.940 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:01:17.525 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:18.274 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:18.274 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:18.999 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:19.000 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:19.677 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:19.677 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:20.354 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:20.355 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:21.032 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:21.032 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:21.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:21.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:22.391 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:22.392 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:23.066 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:23.066 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:23.759 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:23.759 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:24.439 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:24.439 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:25.122 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:25.122 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:25.859 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:25.859 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:26.546 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:26.546 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:27.218 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:27.218 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:27.941 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:27.942 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:01:28.618 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"An error occurred while processing your request. Contact support."}}}
+2024-12-31 13:01:28.804 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 13:01:28.804 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:01:31.749 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:01:31.750 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 13:01:32.900 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 13:01:32.900 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:01:32.900 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:01:32.900 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:01:34.406 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:01:35.680 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:02:29.606 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 13:02:29.609 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:02:33.169 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:02:33.171 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 13:02:34.143 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 13:02:34.143 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:02:34.143 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:02:34.143 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:02:35.423 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:02:36.251 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:02:39.346 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:40.098 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:40.098 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:40.779 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:40.779 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:41.465 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:41.465 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:42.143 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:42.143 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:42.869 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:42.869 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:43.545 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:43.545 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:44.235 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:44.235 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:44.968 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:44.968 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:45.654 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:45.654 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:46.331 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:46.331 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:47.051 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:47.052 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:47.775 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:47.776 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:48.452 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:48.452 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:49.174 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:49.174 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:49.899 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:49.900 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:02:50.624 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:02:50.806 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 13:02:50.807 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:02:53.445 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:02:53.445 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 13:02:53.852 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 13:02:53.853 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:02:53.853 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:02:53.853 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:02:55.544 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:02:56.754 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:04:27.207 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 13:04:27.210 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:04:30.877 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:04:30.879 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 13:04:32.524 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 13:04:32.524 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:04:32.524 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:04:32.524 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:04:33.733 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:04:34.514 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:04:37.742 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:38.453 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:38.453 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:39.136 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:39.136 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:39.820 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:39.820 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:40.508 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:40.509 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:41.194 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:41.194 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:41.871 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:41.872 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:42.550 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:42.550 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:43.233 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:43.234 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:43.912 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:43.912 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:44.588 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:44.588 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:45.277 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:45.279 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:04:45.956 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:04:46.137 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 13:04:46.137 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:04:48.844 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:04:48.844 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 13:04:50.024 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 13:04:50.024 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:04:50.025 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:04:50.025 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:04:51.550 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:09:38.594 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 13:09:38.597 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:09:42.294 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:09:42.297 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 13:09:43.296 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 13:09:43.296 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:09:43.297 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:09:43.297 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:09:44.469 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:09:45.259 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:09:48.945 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 13:09:48.945 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:09:50.761 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:09:50.762 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 13:09:51.960 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 13:09:51.961 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:09:51.961 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:09:51.961 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:09:53.726 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:15:42.292 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 13:15:42.296 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:15:46.549 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:15:46.552 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 13:15:48.184 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 13:15:48.184 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:15:48.185 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:15:48.185 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:15:49.428 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:15:50.229 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:15:53.404 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:54.136 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:54.136 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:54.830 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:54.830 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:55.522 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:55.522 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:56.207 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:56.207 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:56.905 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:56.905 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:57.598 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:57.598 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:58.288 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:58.289 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:58.971 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:58.971 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:15:59.677 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:15:59.678 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:00.375 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:00.375 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:01.076 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:01.076 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:01.769 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:01.769 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:02.453 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:02.454 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:03.137 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:03.137 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:03.822 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:03.822 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:04.524 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:04.524 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:05.211 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:05.211 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:05.895 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:05.895 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:06.587 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:06.587 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:16:09.581 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:10.264 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:10.264 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:10.948 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:10.948 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:11.636 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:11.637 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:12.332 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:12.332 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:13.307 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:13.307 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:14.001 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:14.001 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:14.696 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:14.696 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:16.067 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:16.067 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:16.750 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:16.750 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:17.450 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:17.451 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:18.158 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:18.158 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:18.853 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:18.853 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:19.537 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:19.537 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:20.228 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:20.228 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:20.915 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:20.915 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:21.600 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:21.600 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:22.297 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:22.297 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:22.983 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:22.983 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:23.677 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:23.677 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:16:26.558 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:27.247 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:27.247 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:27.929 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:27.929 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:28.640 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:28.640 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:29.330 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:29.330 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:30.017 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:30.017 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:30.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:30.711 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:31.396 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:31.396 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:32.081 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:32.081 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:32.775 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:32.775 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:33.454 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:33.454 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:34.151 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:34.151 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:34.833 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:34.833 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:35.519 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:35.519 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:36.200 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:36.201 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:36.900 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:36.901 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:37.595 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:37.595 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:38.285 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:38.285 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:38.965 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:38.967 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:39.646 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:39.646 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:16:42.764 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:43.450 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:43.450 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:44.136 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:44.136 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:44.819 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:44.819 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:45.505 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:45.505 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:47.225 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:47.225 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:47.906 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:47.907 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:48.590 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:48.590 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:49.283 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:49.283 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:49.966 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:49.966 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:50.654 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:50.654 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:51.335 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:51.335 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:52.011 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:52.011 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:52.695 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:52.695 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:53.378 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:53.378 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:54.060 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:54.060 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:54.743 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:54.743 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:55.430 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:55.431 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:56.117 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:56.117 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:16:56.803 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:16:56.803 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:16:59.821 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:00.503 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:00.503 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:01.197 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:01.197 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:01.884 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:01.884 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:02.567 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:02.567 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:03.251 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:03.251 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:03.934 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:03.934 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:04.614 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:04.614 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:05.291 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:05.291 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:05.980 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:05.980 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:06.663 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:06.663 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:07.352 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:07.352 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:08.033 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:08.033 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:08.730 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:08.731 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:09.412 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:09.412 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:10.110 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:10.111 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:10.788 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:10.788 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:11.471 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:11.471 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:12.167 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:12.167 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:12.845 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:12.845 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:17:15.812 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:16.501 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:16.501 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:17.177 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:17.178 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:18.891 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:18.891 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:19.576 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:19.576 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:20.255 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:20.255 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:20.934 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:20.934 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:21.619 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:21.619 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:22.296 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:22.297 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:22.987 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:22.987 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:23.670 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:23.670 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:24.357 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:24.357 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:25.038 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:25.038 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:25.713 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:25.713 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:26.408 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:26.408 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:27.090 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:27.091 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:27.768 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:27.768 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:28.453 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:28.453 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:29.139 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:29.139 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:29.825 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:29.825 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:17:32.780 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:33.462 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:33.462 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:34.146 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:34.147 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:34.843 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:34.843 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:35.540 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:35.540 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:36.226 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:36.226 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:36.905 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:36.905 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:37.589 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:37.589 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:38.268 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:38.268 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:38.952 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:38.952 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:39.628 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:39.628 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:40.308 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:40.308 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:40.988 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:40.988 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:41.667 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:41.667 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:42.361 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:42.362 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:43.047 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:43.047 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:43.729 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:43.729 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+2024-12-31 13:17:44.421 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - true
+2024-12-31 13:17:44.422 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete ERT
+22024-12-31 13:51:52.536 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in source tenant : https://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-12-31 13:51:52.538 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:51:56.628 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:51:56.630 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://azsprotenant6.int-az-us.webmethods-spro.io//integration/rest/vcs/git
+2024-12-31 13:51:58.208 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Git account with display name vna not found"}}}
+2024-12-31 13:51:58.208 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:51:58.208 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:51:58.208 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:51:59.408 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID
+2024-12-31 13:52:00.197 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING ERT ID
+2024-12-31 13:52:02.879 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - Clean assets in target tenant : https://devrealm2.dev-int-aws-us.webmethods.io
+2024-12-31 13:52:02.880 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:52:05.366 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - delete the used git account
+2024-12-31 13:52:05.367 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - https://devrealm2.dev-int-aws-us.webmethods.io/integration/rest/vcs/git
+2024-12-31 13:52:06.539 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - {"integration":{"message":{"code":-1,"description":"Github account with display name vna not found"}}}
+2024-12-31 13:52:06.539 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - not able to delete the git account
+2024-12-31 13:52:06.539 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - iteration 1
+2024-12-31 13:52:06.539 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING AUTHTOKEN COOKIE AND CSRF
+2024-12-31 13:52:08.157 [TestNG-tests-1] INFO  com.webMethodsFlowUI.testsuites.CleanUpAssets.CleanAssets - GETTING Project ID

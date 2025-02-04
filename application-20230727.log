@@ -1,0 +1,258 @@
+2023-07-27 12:30:19.118 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - session not created: This version of ChromeDriver only supports Chrome version 113
+Current browser version is 115.0.5790.99 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SAG-CVDCSG3', ip: '192.168.29.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x009A8893+48451]
+	(No symbol) [0x0093B8A1]
+	(No symbol) [0x00845058]
+	(No symbol) [0x00865D9C]
+	(No symbol) [0x00861AA3]
+	(No symbol) [0x00860019]
+	(No symbol) [0x00890798]
+	(No symbol) [0x0089047C]
+	(No symbol) [0x0088A0B6]
+	(No symbol) [0x00867E08]
+	(No symbol) [0x00868F2D]
+	GetHandleVerifier [0x00C08E3A+2540266]
+	GetHandleVerifier [0x00C48959+2801161]
+	GetHandleVerifier [0x00C4295C+2776588]
+	GetHandleVerifier [0x00A32280+612144]
+	(No symbol) [0x00944F6C]
+	(No symbol) [0x009411D8]
+	(No symbol) [0x009412BB]
+	(No symbol) [0x00934857]
+	BaseThreadInitThunk [0x777300C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A97B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A97AEE+238]
+
+2023-07-27 12:34:03.253 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)
+2023-07-27 12:34:03.258 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 1067414015
+2023-07-27 12:34:03.426 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://devrealm1.dev-int-aws-us.webmethods.io
+2023-07-27 12:34:06.249 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2023-07-27 12:34:11.248 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: icapiuser
+2023-07-27 12:34:11.538 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[@id='password']]
+2023-07-27 12:34:17.468 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2023-07-27 12:34:17.653 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:17.843 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-07-27 12:34:19.520 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-07-27 12:34:20.691 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-07-27 12:34:20.914 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-07-27 12:34:21.682 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-07-27 12:34:21.842 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:22.518 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //span[contains(text(),'ICUI_AutomationProject1')]]
+2023-07-27 12:34:22.671 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:24.334 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Connectors ')]
+2023-07-27 12:34:24.609 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Connectors 
+2023-07-27 12:34:24.845 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:40.161 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify PredefinedConnectorTitle is visible
+2023-07-27 12:34:40.538 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'REST')]
+2023-07-27 12:34:40.839 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Left Panal MainMenu....REST
+2023-07-27 12:34:41.030 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:42.399 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:34:42.682 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Add Connector')]
+2023-07-27 12:34:42.983 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Button.. Add Connector
+2023-07-27 12:34:43.176 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:43.371 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify defineConnetorPageTitle is visible
+2023-07-27 12:34:43.543 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify defineConnetorPageTitle is visible.. [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //span[contains(text(),'Define Connector')]]
+2023-07-27 12:34:43.746 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering connector Name.. MyFirstRESTConnectorTestApp
+2023-07-27 12:34:44.088 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering connectorDescription.. MyREST Connector Description
+2023-07-27 12:34:44.445 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering REST connector URL... https://reqres.in
+2023-07-27 12:34:45.010 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Authentication Type drop down
+2023-07-27 12:34:45.183 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[contains(text(),'Credentials')]
+2023-07-27 12:34:45.463 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - selecting value from drop down link  Credentials
+2023-07-27 12:34:45.660 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Next')]
+2023-07-27 12:34:45.927 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Button.. Next
+2023-07-27 12:34:46.097 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:46.284 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify resourcePageTitle is visible
+2023-07-27 12:34:46.493 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Add resource')]
+2023-07-27 12:34:46.759 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Button.. Add resource
+2023-07-27 12:34:46.908 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:47.081 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify resourcePageTitle is present
+2023-07-27 12:34:47.331 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Resource Name.. testResource
+2023-07-27 12:34:47.669 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Resource resourcePath.. /api/users
+2023-07-27 12:34:47.971 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Resource resourceDescription.. MyResourceDescription
+2023-07-27 12:34:48.280 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[@class='new-checkbox-label-text'][contains(text(),'GET')]
+2023-07-27 12:34:48.577 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - clicking on checkbox.. GET
+2023-07-27 12:34:48.744 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify requestTab is visible
+2023-07-27 12:34:49.075 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Add Parameters')]
+2023-07-27 12:34:49.334 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on button... Add Parameters
+2023-07-27 12:34:49.504 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify parametersHeader is visible
+2023-07-27 12:34:49.751 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering parameter Name.. page
+2023-07-27 12:34:50.041 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering parameter Value.. 2
+2023-07-27 12:34:50.361 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[text()='Parameter Type']/..//div[text()='Select Parameter type']
+2023-07-27 12:34:50.607 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Drop Down..[[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[text()='Parameter Type']/..//div[text()='Select Parameter type']] at index..0
+2023-07-27 12:34:50.789 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[contains(text(),'FORM_ENCODED_PARAM')]
+2023-07-27 12:34:51.051 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - selecting value from drop down link  FORM_ENCODED_PARAM
+2023-07-27 12:34:51.233 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]
+2023-07-27 12:34:51.492 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Drop Down..[[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]] at index..0
+2023-07-27 12:34:51.660 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[contains(text(),'Yes')]
+2023-07-27 12:34:51.893 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - selecting value from drop down link  Yes
+2023-07-27 12:34:52.156 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify requestTab is visible
+2023-07-27 12:34:52.416 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Add Header')]
+2023-07-27 12:34:52.727 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on button... Add Header
+2023-07-27 12:34:52.911 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//input[@placeholder='Type the Header Name'])[1]
+2023-07-27 12:34:52.969 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering headerName... AcceptAnd header section index is 1
+2023-07-27 12:34:53.286 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//input[@placeholder='Type a Value'])[2]
+2023-07-27 12:34:53.311 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering header Value... application/jsonAnd header section index is 2
+2023-07-27 12:34:53.613 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]
+2023-07-27 12:34:53.850 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Drop Down..[[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]] at index..1
+2023-07-27 12:34:54.004 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//div[contains(text(),'Yes')])['2']
+2023-07-27 12:34:54.249 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - selecting value from drop down link  Yes
+2023-07-27 12:34:54.403 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Add Header')]
+2023-07-27 12:34:54.620 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on button... Add Header
+2023-07-27 12:34:54.777 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//input[@placeholder='Type the Header Name'])[2]
+2023-07-27 12:34:54.822 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering headerName... Content-TypeAnd header section index is 2
+2023-07-27 12:34:55.137 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//input[@placeholder='Type a Value'])[3]
+2023-07-27 12:34:55.183 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering header Value... application/jsonAnd header section index is 3
+2023-07-27 12:34:55.499 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]
+2023-07-27 12:34:55.792 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Drop Down..[[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]] at index..2
+2023-07-27 12:34:55.955 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//div[contains(text(),'Yes')])['3']
+2023-07-27 12:34:56.179 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - selecting value from drop down link  Yes
+2023-07-27 12:34:56.362 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify requestTab is visible
+2023-07-27 12:34:56.687 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Next')]
+2023-07-27 12:34:57.016 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Button.. [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //button[contains(text(),'Next')]]
+2023-07-27 12:34:57.273 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:34:57.592 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Add Header')]
+2023-07-27 12:34:57.861 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Button Link.. Add Header
+2023-07-27 12:34:58.052 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//input[@placeholder='Type the Header Name'])[1]
+2023-07-27 12:34:58.088 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering headerName... Content-TypeAnd header section index is 1
+2023-07-27 12:34:58.451 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//input[@placeholder='Type a Value'])[1]
+2023-07-27 12:34:58.505 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering header Value... application/jsonAnd header section index is 1
+2023-07-27 12:34:59.026 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]
+2023-07-27 12:34:59.304 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Drop Down..[[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[text()='Mandatory']/../div/div/div/div[contains(@class,'singleValue')]] at index..0
+2023-07-27 12:34:59.527 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//div[contains(text(),'No')])['1']
+2023-07-27 12:34:59.924 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - selecting value from drop down link  No
+2023-07-27 12:35:00.309 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering HTTP Code.. 200-500
+2023-07-27 12:35:00.712 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify HTTPCode is visible.. [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //input[@placeholder='Type HTTP Codes, E.g. 200, 201 or 200-299']]
+2023-07-27 12:35:08.560 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Add Document Plus icon 
+2023-07-27 12:35:08.787 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:35:08.960 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify AddNewDocumentTitle is visible
+2023-07-27 12:35:09.143 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering documentTypeName... Document4
+2023-07-27 12:35:09.413 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering documentTypeName... Test Document Description is here....
+2023-07-27 12:35:09.739 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@type='submit'][@value='Save']
+2023-07-27 12:35:09.998 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Save button
+2023-07-27 12:35:10.163 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='notification-message']
+2023-07-27 12:35:13.582 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:35:13.748 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:35:13.929 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify HTTPCode is visible.. [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //input[@placeholder='Type HTTP Codes, E.g. 200, 201 or 200-299']]
+2023-07-27 12:35:14.310 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - clicking DocumentTypeDropDown
+2023-07-27 12:35:14.442 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[(text()='Document4')]
+2023-07-27 12:35:14.663 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - clicking created document from dropdown.. [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[(text()='Document4')]]
+2023-07-27 12:35:14.816 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Next')]
+2023-07-27 12:35:15.075 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Button.. [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //button[contains(text(),'Next')]]
+2023-07-27 12:35:15.243 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:35:15.422 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify resourcePageTitle is present
+2023-07-27 12:35:15.663 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Save')]
+2023-07-27 12:35:15.915 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Button.. Save
+2023-07-27 12:35:16.146 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:35:30.496 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify resourcePageTitle is visible
+2023-07-27 12:35:30.835 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Connectors')]
+2023-07-27 12:35:31.103 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Connectors
+2023-07-27 12:35:31.266 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:35:44.155 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'REST')]
+2023-07-27 12:35:44.416 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Left Panal MainMenu....REST
+2023-07-27 12:35:44.581 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:35:50.997 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:35:51.255 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'MyFirstRESTConnectorTestApp')]/parent::div/span[2]/img
+2023-07-27 12:35:51.310 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - mousehover on created REST connector MyFirstRESTConnectorTestApp
+2023-07-27 12:35:51.652 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify NewAccountButton is present
+2023-07-27 12:35:52.094 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicked on NewAccount Button...
+2023-07-27 12:35:52.276 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify AddAccountModelTitle is visible
+2023-07-27 12:35:53.733 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on authorization Drop Down....[[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //*[text()='Authorization Type']/../div/div/div/div[contains(@class,'singleValue')]]
+2023-07-27 12:35:54.137 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Selecting Auth type....basic
+2023-07-27 12:35:54.295 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering SNIserverName... reqres.in
+2023-07-27 12:35:54.630 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: icapiuser
+2023-07-27 12:35:55.086 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //input[@name='Password']]
+2023-07-27 12:35:55.860 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - clicked on add button
+2023-07-27 12:35:56.044 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:05.631 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Account saved successfully message is visible
+2023-07-27 12:36:05.841 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:36:11.492 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[contains(text(),'1 Account(s) configured')]
+2023-07-27 12:36:11.520 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify CreatedAccount is visible
+2023-07-27 12:36:11.850 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Integrations')]
+2023-07-27 12:36:12.135 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Integrations
+2023-07-27 12:36:12.345 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:12.665 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-07-27 12:36:12.908 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-07-27 12:36:13.081 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:13.370 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-07-27 12:36:13.578 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - No Flow services created yet! message is visible
+2023-07-27 12:36:14.055 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on flowservice create plus Button
+2023-07-27 12:36:14.263 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:16.725 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServiceCanvasPage - flowService Canvas page Object created
+2023-07-27 12:36:16.726 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:17.045 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering flow service title:  TestFlowService
+2023-07-27 12:36:17.861 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering flowServiceDescription: TestFlowService Description here
+2023-07-27 12:36:18.656 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering nameOfFirstStep:  MyFirstRESTConnectorTestApp
+2023-07-27 12:36:19.355 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:19.734 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on ALL drop down link
+2023-07-27 12:36:20.199 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on option link..APPS
+2023-07-27 12:36:20.387 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:20.592 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[@class='item-name']
+2023-07-27 12:36:20.644 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Wait for conenctor name to be visible in List
+2023-07-27 12:36:20.878 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - verify connector name is matching
+2023-07-27 12:36:21.284 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on connector name... MyFirstRESTConnectorTestApp
+2023-07-27 12:36:21.484 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Select Operation dropdown is visible
+2023-07-27 12:36:21.936 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking selection operation dropdown
+2023-07-27 12:36:22.657 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on add custom operation link
+2023-07-27 12:36:22.867 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:23.413 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:23.595 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Add Custom Action label is visible
+2023-07-27 12:36:23.796 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Connect To Account Label is visible
+2023-07-27 12:36:24.147 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[text()='Connect to MyFirstRESTConnectorTestApp']/../div/div/div/div[text()='Please Select']
+2023-07-27 12:36:24.441 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Account selection dropdown....
+2023-07-27 12:36:24.840 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on created account....MyFirstRESTConnectorTestApp_1
+2023-07-27 12:36:25.020 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering custom operation name...TestOperation
+2023-07-27 12:36:25.467 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering custom operationDescription...Operation description here
+2023-07-27 12:36:26.975 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on NextButton
+2023-07-27 12:36:27.470 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify customOperationStepTitle is visible
+2023-07-27 12:36:27.959 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Select operation...gettestResource
+2023-07-27 12:36:28.144 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Next')]
+2023-07-27 12:36:28.660 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Next Button...
+2023-07-27 12:36:28.987 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify customOperation Name is visible... TestOperation
+2023-07-27 12:36:29.169 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify customOperation description is visible... Operation description here
+2023-07-27 12:36:29.354 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify customOperation account is visible... MyFirstRESTConnectorTestApp_1
+2023-07-27 12:36:29.519 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify customOperation serviceName is visible... MyFirstRESTConnectorTestApp
+2023-07-27 12:36:29.731 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify operationName is visible... gettestResource
+2023-07-27 12:36:30.132 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on done button 
+2023-07-27 12:36:30.338 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:34.872 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Add account Icon....
+2023-07-27 12:36:35.102 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'MyFirstRESTConnectorTestApp_1')]
+2023-07-27 12:36:35.685 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Selecting account.. [[ChromeDriver: chrome on WINDOWS (841a955390a7a9e587ff9f27a10e4876)] -> xpath: //span[contains(text(),'MyFirstRESTConnectorTestApp_1')]]
+2023-07-27 12:36:35.924 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify editMapping is displayed
+2023-07-27 12:36:36.697 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on edit mapping
+2023-07-27 12:36:36.973 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:36:37.283 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify editMapping title element is visible
+2023-07-27 12:36:37.569 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'TestOperationInput')]//ancestor::div[@class='tree-context']/preceding-sibling::div[@class='tree-icon-container']/span/i
+2023-07-27 12:36:38.045 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Expand the field... TestOperationInput
+2023-07-27 12:36:38.318 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'parameters')]//ancestor::div[@class='tree-context']/preceding-sibling::div[@class='tree-icon-container']/span/i
+2023-07-27 12:36:38.675 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Expand the field... parameters
+2023-07-27 12:36:38.883 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(@class,'child-node')][contains(text(),'page')]
+2023-07-27 12:36:39.307 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - double clicking on child parameter.. page
+2023-07-27 12:36:39.532 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@id='page']//input
+2023-07-27 12:37:39.898 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServiceCanvasPage - flowService Canvas page Object created
+2023-07-27 12:37:39.898 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:37:40.095 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:37:40.591 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on runButton
+2023-07-27 12:37:40.812 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:37:40.987 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:37:41.147 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify runSuccessMessage is displayed
+2023-07-27 12:39:21.435 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:39:21.852 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - clicking on Back arrowLink...
+2023-07-27 12:39:21.997 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-07-27 12:39:22.182 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-07-27 12:40:22.453 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify operationpageheading is visible
+2023-07-27 12:41:22.796 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:42:23.209 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Connectors ')]
+2023-07-27 12:43:23.662 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:44:24.197 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:45:24.766 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Integrations')]
+2023-07-27 12:46:25.155 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Connectors ')]
+2023-07-27 12:47:25.565 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:48:26.003 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify RESTConnectorPageTitle is visible
+2023-07-27 12:49:26.284 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[@title='webMethods.io Integration']
+2023-07-27 12:50:26.595 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-07-27 12:51:26.894 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - WaitHelper Object created....
+2023-07-27 12:51:26.921 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Monitor')]' for :40seconds

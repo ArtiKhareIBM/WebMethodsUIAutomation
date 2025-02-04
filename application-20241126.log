@@ -1,0 +1,234 @@
+2024-11-26 06:41:36.530 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (cd3eacdbb9a93fe138f65721decbcbb4)
+2024-11-26 06:41:36.534 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 697463019
+2024-11-26 06:41:36.583 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-11-26 06:41:38.171 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2024-11-26 06:42:10.017 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-26 06:42:22.938 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='delite-icon dlt-icon-profile']
+2024-11-26 06:42:47.103 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on profile
+2024-11-26 06:42:47.531 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='Settings']
+2024-11-26 06:42:56.687 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on Settings
+2024-11-26 06:42:57.115 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-26 06:42:57.458 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify key or certificate table visible
+2024-11-26 06:42:57.668 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on runtime tab
+2024-11-26 06:42:58.116 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - loader is not visble
+2024-11-26 06:42:58.683 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on new add button
+2024-11-26 06:42:59.020 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add new text visible
+2024-11-26 06:42:59.214 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter value for store name
+2024-11-26 06:42:59.514 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on next button
+2024-11-26 06:43:01.994 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='ICRuntimeStore']
+2024-11-26 06:43:02.145 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Store name visible
+2024-11-26 06:43:02.312 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - No certificate for Key store visible
+2024-11-26 06:43:03.513 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - No Certificate for trust store visible
+2024-11-26 06:43:03.708 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add button visible
+2024-11-26 06:43:03.877 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add button visible
+2024-11-26 06:43:04.028 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify info message for Identify
+2024-11-26 06:43:04.187 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - verify info message for trust store
+2024-11-26 06:43:04.408 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//span[@title='Copy password']
+2024-11-26 06:43:04.437 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on copy docker command
+2024-11-26 06:43:08.041 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//span[@title='Copy password']
+2024-11-26 06:43:08.071 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on copy password
+2024-11-26 06:43:11.481 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 06:43:11.518 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on add certificate button
+2024-11-26 06:43:11.877 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-identity-store']//li//a[@href='javascript:;'][normalize-space()='Import Keystore']
+2024-11-26 06:43:11.926 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import keystore is visible
+2024-11-26 06:43:12.121 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-identity-store']//li//a[@href='javascript:;'][normalize-space()='Import Certificate']
+2024-11-26 06:43:12.154 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import Certificate is visible
+2024-11-26 06:43:12.297 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on import certificate
+2024-11-26 06:43:12.707 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Import Keystore']
+2024-11-26 06:43:12.747 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify text is visble
+2024-11-26 06:43:12.942 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Browse']
+2024-11-26 06:43:17.251 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@name='Passphrase']
+2024-11-26 06:43:17.299 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter the password
+2024-11-26 06:43:17.659 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Next']
+2024-11-26 06:43:17.695 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on next button
+2024-11-26 06:43:18.092 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='alias-list-header']
+2024-11-26 06:43:18.204 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - verify text is visible
+2024-11-26 06:43:18.408 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[@class='parameters-value']
+2024-11-26 06:43:18.437 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on text to check the checkbox
+2024-11-26 06:43:18.749 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Save']
+2024-11-26 06:43:18.794 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on save button
+2024-11-26 06:43:19.150 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='azstagetenant1.cc.az-us.webmethodscloud-stage.com']
+2024-11-26 06:43:19.188 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify certificate uploaded
+2024-11-26 06:43:19.423 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader
+2024-11-26 06:43:19.746 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@title='Delete certificate/store']
+2024-11-26 06:43:19.776 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Wait for Element visible
+2024-11-26 06:43:20.005 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 06:43:20.036 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on add certificate button
+2024-11-26 06:43:20.404 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-trust-store']//li//a[@href='javascript:;'][normalize-space()='Import Keystore']
+2024-11-26 06:43:20.443 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import keystore is visible
+2024-11-26 06:43:20.624 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-trust-store']//li//a[@href='javascript:;'][normalize-space()='Import Certificate']
+2024-11-26 06:43:20.658 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import Certificate is visible
+2024-11-26 06:43:20.804 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on import certificate
+2024-11-26 06:43:21.194 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Import Keystore']
+2024-11-26 06:43:51.446 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@id='ICRuntimeStore']/ancestor::div[@class='table-row runtimes-certificates-stores-row']//i[@title='Delete store']
+2024-11-26 06:43:51.496 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on delete button of Store
+2024-11-26 06:43:51.861 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Delete ICRuntimeStore']
+2024-11-26 06:46:46.173 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (2bc7f1e07064f13e7ffacbdecc778ef7)
+2024-11-26 06:46:46.176 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 999334666
+2024-11-26 06:46:46.220 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-11-26 06:46:48.165 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2024-11-26 06:46:59.087 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: admin
+2024-11-26 06:46:59.305 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: FMS2HdMkTDTHS_TS
+2024-11-26 06:47:01.626 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2024-11-26 06:47:04.674 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2024-11-26 06:47:04.821 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2024-11-26 06:47:04.964 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2024-11-26 06:47:08.374 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2024-11-26 06:47:10.131 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-26 06:47:10.272 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='delite-icon dlt-icon-profile']
+2024-11-26 06:47:10.305 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on profile
+2024-11-26 06:47:10.729 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='Settings']
+2024-11-26 06:47:10.759 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on Settings
+2024-11-26 06:47:11.157 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-26 06:47:11.539 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify key or certificate table visible
+2024-11-26 06:47:11.773 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on runtime tab
+2024-11-26 06:47:12.238 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - loader is not visble
+2024-11-26 06:47:12.471 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on new add button
+2024-11-26 06:47:12.829 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add new text visible
+2024-11-26 06:47:13.028 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter value for store name
+2024-11-26 06:47:13.346 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on next button
+2024-11-26 06:47:14.817 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='ICRuntimeStore']
+2024-11-26 06:47:14.966 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Store name visible
+2024-11-26 06:47:15.138 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - No certificate for Key store visible
+2024-11-26 06:47:16.346 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - No Certificate for trust store visible
+2024-11-26 06:47:16.561 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add button visible
+2024-11-26 06:47:16.701 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add button visible
+2024-11-26 06:47:16.838 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify info message for Identify
+2024-11-26 06:47:17.001 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - verify info message for trust store
+2024-11-26 06:47:17.218 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//span[@title='Copy password']
+2024-11-26 06:47:17.258 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on copy docker command
+2024-11-26 06:47:20.766 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//span[@title='Copy password']
+2024-11-26 06:47:20.811 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on copy password
+2024-11-26 06:47:21.335 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 06:47:21.406 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on add certificate button
+2024-11-26 06:47:21.735 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-identity-store']//li//a[@href='javascript:;'][normalize-space()='Import Keystore']
+2024-11-26 06:47:21.780 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import keystore is visible
+2024-11-26 06:47:21.953 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-identity-store']//li//a[@href='javascript:;'][normalize-space()='Import Certificate']
+2024-11-26 06:47:21.986 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import Certificate is visible
+2024-11-26 06:47:22.136 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on import certificate
+2024-11-26 06:47:22.546 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Import Keystore']
+2024-11-26 06:47:22.582 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify text is visble
+2024-11-26 06:47:22.784 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Browse']
+2024-11-26 06:47:27.022 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@name='Passphrase']
+2024-11-26 06:47:27.069 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter the password
+2024-11-26 06:47:27.390 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Next']
+2024-11-26 06:47:27.424 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on next button
+2024-11-26 06:47:27.797 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='alias-list-header']
+2024-11-26 06:47:28.551 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - verify text is visible
+2024-11-26 06:47:28.713 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[@class='parameters-value']
+2024-11-26 06:47:28.767 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on text to check the checkbox
+2024-11-26 06:47:29.095 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Save']
+2024-11-26 06:47:29.138 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on save button
+2024-11-26 06:47:29.493 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='azstagetenant1.cc.az-us.webmethodscloud-stage.com']
+2024-11-26 06:47:29.532 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify certificate uploaded
+2024-11-26 06:47:29.725 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader
+2024-11-26 06:47:30.172 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@title='Delete certificate/store']
+2024-11-26 06:47:30.212 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Wait for Element visible
+2024-11-26 06:47:30.401 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 06:47:30.437 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on add certificate button
+2024-11-26 06:47:30.793 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-trust-store']//li//a[@href='javascript:;'][normalize-space()='Import Keystore']
+2024-11-26 06:47:30.848 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import keystore is visible
+2024-11-26 06:47:31.045 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-trust-store']//li//a[@href='javascript:;'][normalize-space()='Import Certificate']
+2024-11-26 06:47:31.085 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import Certificate is visible
+2024-11-26 06:47:31.234 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on import certificate
+2024-11-26 06:47:31.612 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Import Keystore']
+2024-11-26 06:48:01.784 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@id='ICRuntimeStore']/ancestor::div[@class='table-row runtimes-certificates-stores-row']//i[@title='Delete store']
+2024-11-26 06:48:01.827 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on delete button of Store
+2024-11-26 06:48:02.184 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Delete ICRuntimeStore']
+2024-11-26 06:59:07.430 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (1f22522a10c189a11bd91858885a3eda)
+2024-11-26 06:59:07.435 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 999334666
+2024-11-26 06:59:07.471 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-11-26 06:59:09.053 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2024-11-26 06:59:40.661 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-26 06:59:40.806 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='delite-icon dlt-icon-profile']
+2024-11-26 07:00:10.978 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - loader is not visble
+2024-11-26 07:00:11.130 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on new add button
+2024-11-26 07:00:42.060 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//span[@title='Copy password']
+2024-11-26 07:01:14.347 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//span[@title='Copy password']
+2024-11-26 07:01:44.487 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 07:02:12.144 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 07:02:12.181 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@id='ICRuntimeStore']/ancestor::div[@class='table-row runtimes-certificates-stores-row']//i[@title='Delete store']
+2024-11-26 10:25:26.222 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (4ae556d15e18881c3aa48b01573adf8e)
+2024-11-26 10:25:26.226 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 999334666
+2024-11-26 10:25:26.258 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-11-26 10:25:27.221 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2024-11-26 10:25:40.424 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: admin
+2024-11-26 10:25:40.580 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: FMS2HdMkTDTHS_TS
+2024-11-26 10:25:42.774 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2024-11-26 10:25:45.754 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2024-11-26 10:25:45.846 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2024-11-26 10:25:45.944 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2024-11-26 10:25:48.689 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2024-11-26 10:25:50.085 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-26 10:25:50.188 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='delite-icon dlt-icon-profile']
+2024-11-26 10:25:50.210 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on profile
+2024-11-26 10:25:50.499 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='Settings']
+2024-11-26 10:25:50.514 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on Settings
+2024-11-26 10:25:50.811 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-26 10:25:51.177 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify key or certificate table visible
+2024-11-26 10:25:51.317 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on runtime tab
+2024-11-26 10:25:51.653 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - loader is not visble
+2024-11-26 10:25:51.993 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on new add button
+2024-11-26 10:25:52.301 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add new text visible
+2024-11-26 10:25:52.418 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter value for store name
+2024-11-26 10:25:52.581 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on next button
+2024-11-26 10:25:54.910 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='ICRuntimeStore']
+2024-11-26 10:25:55.168 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Store name visible
+2024-11-26 10:25:55.297 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - No certificate for Key store visible
+2024-11-26 10:25:56.418 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - No Certificate for trust store visible
+2024-11-26 10:25:56.544 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add button visible
+2024-11-26 10:25:56.651 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add button visible
+2024-11-26 10:25:56.765 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify info message for Identify
+2024-11-26 10:25:56.875 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - verify info message for trust store
+2024-11-26 10:25:57.025 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//span[@title='Copy password']
+2024-11-26 10:25:57.046 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on copy docker command
+2024-11-26 10:26:00.436 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//span[@title='Copy password']
+2024-11-26 10:26:00.452 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on copy password
+2024-11-26 10:26:00.859 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 10:26:00.881 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on add certificate button
+2024-11-26 10:26:01.190 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-identity-store']//li//a[@href='javascript:;'][normalize-space()='Import Keystore']
+2024-11-26 10:26:01.213 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import keystore is visible
+2024-11-26 10:26:01.346 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-identity-store']//li//a[@href='javascript:;'][normalize-space()='Import Certificate']
+2024-11-26 10:26:01.366 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import Certificate is visible
+2024-11-26 10:26:01.492 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on import certificate
+2024-11-26 10:26:01.783 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Import Keystore']
+2024-11-26 10:26:01.805 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify text is visble
+2024-11-26 10:26:01.938 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Browse']
+2024-11-26 10:26:06.130 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@name='Passphrase']
+2024-11-26 10:26:06.149 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter the password
+2024-11-26 10:26:06.324 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Next']
+2024-11-26 10:26:06.342 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on next button
+2024-11-26 10:26:06.599 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='alias-list-header']
+2024-11-26 10:26:06.833 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - verify text is visible
+2024-11-26 10:26:06.946 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[@class='parameters-value']
+2024-11-26 10:26:06.967 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on text to check the checkbox
+2024-11-26 10:26:07.227 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Save']
+2024-11-26 10:26:07.245 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on save button
+2024-11-26 10:26:07.543 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='azstagetenant1.cc.az-us.webmethodscloud-stage.com']
+2024-11-26 10:26:07.563 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify certificate uploaded
+2024-11-26 10:26:07.683 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader
+2024-11-26 10:26:08.329 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@title='Delete certificate/store']
+2024-11-26 10:26:08.348 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Wait for Element visible
+2024-11-26 10:26:08.503 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-26 10:26:08.521 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on add certificate button
+2024-11-26 10:26:08.776 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-trust-store']//li//a[@href='javascript:;'][normalize-space()='Import Keystore']
+2024-11-26 10:26:08.798 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import keystore is visible
+2024-11-26 10:26:08.921 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //ul[@id='runtime-certificate-trust-store']//li//a[@href='javascript:;'][normalize-space()='Import Certificate']
+2024-11-26 10:26:08.939 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify import Certificate is visible
+2024-11-26 10:26:09.066 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on import certificate
+2024-11-26 10:26:09.346 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Import Truststore']
+2024-11-26 10:26:09.366 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify text is visble
+2024-11-26 10:26:09.543 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Browse']
+2024-11-26 10:26:13.638 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@name='Passphrase']
+2024-11-26 10:26:13.652 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter the password
+2024-11-26 10:26:13.813 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[normalize-space()='Save']
+2024-11-26 10:26:13.827 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on save button
+2024-11-26 10:26:14.130 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - loader is not visible
+2024-11-26 10:26:14.854 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='is-aws2024']
+2024-11-26 10:26:14.872 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify certificate uploaded
+2024-11-26 10:26:15.000 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader
+2024-11-26 10:26:15.120 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@title='Delete certificate/store']
+2024-11-26 10:26:15.136 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify delete button visible
+2024-11-26 10:26:15.298 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@id='ICRuntimeStore']/ancestor::div[@class='table-row runtimes-certificates-stores-row']//i[@title='Delete store']
+2024-11-26 10:26:15.320 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on delete button of Store
+2024-11-26 10:26:15.572 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //h1[normalize-space()='Delete ICRuntimeStore']

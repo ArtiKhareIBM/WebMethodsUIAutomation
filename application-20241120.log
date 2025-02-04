@@ -1,0 +1,29 @@
+2024-11-20 18:45:58.301 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (b4705ad8febac80a646190865668ac6e)
+2024-11-20 18:45:58.306 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 999334666
+2024-11-20 18:45:58.349 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2024-11-20 18:46:00.751 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2024-11-20 18:46:08.331 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: admin
+2024-11-20 18:46:08.475 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: FMS2HdMkTDTHS_TS
+2024-11-20 18:46:10.633 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2024-11-20 18:46:13.528 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2024-11-20 18:46:13.656 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2024-11-20 18:46:13.760 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2024-11-20 18:46:16.355 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2024-11-20 18:46:18.059 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-20 18:46:18.421 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='delite-icon dlt-icon-profile']
+2024-11-20 18:46:18.453 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on profile
+2024-11-20 18:46:18.861 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[normalize-space()='Settings']
+2024-11-20 18:46:18.885 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - click on Settings
+2024-11-20 18:46:19.264 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for loader not visible
+2024-11-20 18:46:19.542 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify key or certificate table visible
+2024-11-20 18:46:19.689 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on runtime tab
+2024-11-20 18:46:20.070 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - loader is not visble
+2024-11-20 18:46:20.351 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on new add button
+2024-11-20 18:46:20.635 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - add new text visible
+2024-11-20 18:46:20.759 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Enter value for store name
+2024-11-20 18:46:20.968 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on next button
+2024-11-20 18:46:51.763 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//span[@title='Copy password']
+2024-11-20 18:47:21.888 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//span[@title='Copy password']
+2024-11-20 18:47:52.029 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='key-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-20 18:48:22.173 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='trust-store store-pane']//a[@class='dropdown-button certificate-button right secondary-btn small'][normalize-space()='+ Add']
+2024-11-20 18:48:52.292 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //input[@id='ICRuntimeStore']/ancestor::div[@class='table-row runtimes-certificates-stores-row']//i[@title='Delete store']

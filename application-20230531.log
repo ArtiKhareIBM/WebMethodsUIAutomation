@@ -1,0 +1,355 @@
+2023-05-31 10:38:34.100 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on WINDOWS (badb4e04ab497c67d4932370bf483572)
+2023-05-31 10:38:34.103 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 1638001196
+2023-05-31 10:38:34.267 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://devrealm2.dev-int-aws-us.webmethods.io
+2023-05-31 10:38:35.757 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2023-05-31 10:38:39.620 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: wmioicqa
+2023-05-31 10:38:39.835 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: [[ChromeDriver: chrome on WINDOWS (badb4e04ab497c67d4932370bf483572)] -> xpath: //*[@id='password']]
+2023-05-31 10:38:42.016 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2023-05-31 10:38:44.457 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:38:44.584 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:38:46.653 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:38:47.928 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Add Project Button
+2023-05-31 10:38:48.238 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Project Name RestartResume31May1038
+2023-05-31 10:38:48.450 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click createProject Button
+2023-05-31 10:38:51.940 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify project created successfully message is visible
+2023-05-31 10:38:52.049 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify ProjectDropDown is visible
+2023-05-31 10:38:52.755 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:38:52.784 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:38:53.156 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:38:53.451 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-05-31 10:38:53.573 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServicePage - Checking if flow services are empty
+2023-05-31 10:38:53.964 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:38:54.016 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Projects
+2023-05-31 10:38:54.302 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:38:54.713 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:38:54.853 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:38:55.005 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-05-31 10:38:55.302 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-05-31 10:38:55.592 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-05-31 10:38:55.883 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:38:56.314 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (badb4e04ab497c67d4932370bf483572)] -> xpath: //span[contains(text(),'RestartResume31May1038')]]
+2023-05-31 10:38:56.580 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:38:57.887 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:38:57.925 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:38:58.234 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:38:58.524 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-05-31 10:38:58.659 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServiceCanvasPage - flowService Canvas page Object created
+2023-05-31 10:38:58.659 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:38:58.764 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'RestartResume')]
+2023-05-31 10:39:58.948 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-05-31 10:39:58.977 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Monitor
+2023-05-31 10:39:59.323 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:39:59.763 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow service execution')]
+2023-05-31 10:39:59.794 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Flow service execution
+2023-05-31 10:40:00.125 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:01.165 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'Filters')]
+2023-05-31 10:40:01.196 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Filters
+2023-05-31 10:40:01.564 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:01.741 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select projects')]
+2023-05-31 10:40:01.776 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select projects
+2023-05-31 10:40:11.148 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume31May1038')]
+2023-05-31 10:40:11.184 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume31May1038
+2023-05-31 10:40:11.609 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select Flow services')]
+2023-05-31 10:40:11.642 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select Flow services
+2023-05-31 10:40:16.959 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume')]
+2023-05-31 10:40:16.996 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume
+2023-05-31 10:40:17.356 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Apply')]
+2023-05-31 10:40:17.391 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Apply button
+2023-05-31 10:40:17.750 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:18.050 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:18.214 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:40:18.240 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Projects
+2023-05-31 10:40:18.542 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:18.953 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:40:19.083 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:40:19.236 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-05-31 10:40:19.521 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-05-31 10:40:19.834 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-05-31 10:40:20.123 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:20.524 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (badb4e04ab497c67d4932370bf483572)] -> xpath: //span[contains(text(),'RestartResume31May1038')]]
+2023-05-31 10:40:20.787 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:21.840 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:40:21.873 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:40:22.172 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:40:22.437 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class=' dlt-icon-more-menu']
+2023-05-31 10:41:22.609 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:41:22.644 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Projects
+2023-05-31 10:41:22.952 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:41:23.334 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:41:23.465 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:41:23.634 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-05-31 10:41:23.892 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-05-31 10:41:24.140 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-05-31 10:41:24.412 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:41:24.820 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (badb4e04ab497c67d4932370bf483572)] -> xpath: //span[contains(text(),'RestartResume31May1038')]]
+2023-05-31 10:41:25.076 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:41:26.034 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:41:26.063 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:41:26.329 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:41:26.599 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-05-31 10:41:26.715 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServiceCanvasPage - flowService Canvas page Object created
+2023-05-31 10:41:26.715 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:41:26.815 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'RestartResume')]
+2023-05-31 10:42:26.998 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-05-31 10:42:27.024 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Monitor
+2023-05-31 10:42:27.364 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:42:27.849 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow service execution')]
+2023-05-31 10:42:27.890 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Flow service execution
+2023-05-31 10:42:28.239 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:42:29.143 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'Filters')]
+2023-05-31 10:42:29.180 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Filters
+2023-05-31 10:42:29.535 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:42:29.690 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select projects')]
+2023-05-31 10:42:29.712 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select projects
+2023-05-31 10:42:39.113 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume31May1038')]
+2023-05-31 10:42:39.149 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume31May1038
+2023-05-31 10:42:39.563 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select Flow services')]
+2023-05-31 10:42:39.590 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select Flow services
+2023-05-31 10:42:44.896 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume')]
+2023-05-31 10:42:44.933 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume
+2023-05-31 10:42:45.291 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Apply')]
+2023-05-31 10:42:45.320 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Apply button
+2023-05-31 10:42:45.700 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:42:46.117 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@title='Resume flow execution from the point it failed in the previous run']
+2023-05-31 10:43:46.308 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//a[@title='RestartResume'])[2]
+2023-05-31 10:44:46.542 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-05-31 10:44:46.579 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Monitor
+2023-05-31 10:44:46.931 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:44:47.391 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services execution')]
+2023-05-31 10:45:47.721 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:45:47.773 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Projects
+2023-05-31 10:45:48.250 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:45:48.628 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:45:48.858 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:45:49.120 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-05-31 10:45:49.495 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-05-31 10:45:49.874 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-05-31 10:45:50.175 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:45:50.592 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (badb4e04ab497c67d4932370bf483572)] -> xpath: //span[contains(text(),'RestartResume31May1038')]]
+2023-05-31 10:45:50.881 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:45:51.907 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Integrations')]
+2023-05-31 10:45:51.935 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Integrations
+2023-05-31 10:45:52.210 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:45:52.320 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:45:52.344 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:45:52.625 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:45:53.062 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(@class,'title-flow-name')][text()='RestartResume']/ancestor::div[@class='top-section']/following-sibling::div[@class='bottom-section']//i[contains(@class,'more-menu')]
+2023-05-31 10:46:53.443 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[@title='webMethods.io Integration']
+2023-05-31 10:46:53.509 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on homeLogo.. 
+2023-05-31 10:46:54.144 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:46:54.455 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:46:54.508 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify project menu is visible
+2023-05-31 10:46:54.705 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:46:54.900 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:46:55.078 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:46:55.287 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:46:55.528 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on projectpanel more menu
+2023-05-31 10:46:55.981 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify project delete button is present
+2023-05-31 10:46:56.197 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on delete button
+2023-05-31 10:47:02.964 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Project deleted successfully. message is present
+2023-05-31 10:47:03.194 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:47:08.555 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - WaitHelper Object created....
+2023-05-31 10:47:08.579 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Monitor')]' for :40seconds
+2023-05-31 10:53:46.495 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)
+2023-05-31 10:53:46.499 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 1638001196
+2023-05-31 10:53:46.670 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://devrealm2.dev-int-aws-us.webmethods.io
+2023-05-31 10:53:47.489 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2023-05-31 10:53:51.445 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: wmioicqa
+2023-05-31 10:53:51.660 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: [[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //*[@id='password']]
+2023-05-31 10:53:53.844 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2023-05-31 10:53:56.429 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:53:56.599 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:53:58.609 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:53:59.785 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Add Project Button
+2023-05-31 10:54:00.178 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Project Name RestartResume31May1053
+2023-05-31 10:54:00.471 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click createProject Button
+2023-05-31 10:54:04.021 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify project created successfully message is visible
+2023-05-31 10:54:04.119 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify ProjectDropDown is visible
+2023-05-31 10:54:04.978 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:54:05.049 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:54:05.486 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:05.807 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-05-31 10:54:06.030 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServicePage - Checking if flow services are empty
+2023-05-31 10:54:06.372 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:07.046 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:54:07.075 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Projects
+2023-05-31 10:54:07.407 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:07.838 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:54:08.007 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:54:08.174 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-05-31 10:54:08.477 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-05-31 10:54:08.787 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-05-31 10:54:09.119 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:10.137 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //span[contains(text(),'RestartResume31May1053')]]
+2023-05-31 10:54:10.395 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:11.287 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:54:11.323 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:54:11.659 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:11.943 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-05-31 10:54:12.094 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServiceCanvasPage - flowService Canvas page Object created
+2023-05-31 10:54:12.094 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:12.207 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'RestartResume')]
+2023-05-31 10:54:12.235 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click setting button
+2023-05-31 10:54:12.528 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:16.630 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on runButton
+2023-05-31 10:54:17.631 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:17.750 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:17.886 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - WaitHelper Object created....
+2023-05-31 10:54:17.899 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //h4[contains(text(),'Input values')]] for :40seconds
+2023-05-31 10:54:17.914 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - element is visible now.....
+2023-05-31 10:54:17.914 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.EditMappingPage - element is visible now....[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //h4[contains(text(),'Input values')]]
+2023-05-31 10:54:17.922 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.EditMappingPage -  Entering input value ...
+2023-05-31 10:54:17.946 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.EditMappingPage - All input parameters are.....[[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //input[@placeholder='Enter value here']], [[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //input[@placeholder='Enter value here']]]
+2023-05-31 10:54:17.946 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.EditMappingPage -  Clicking on element at index...0......[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //input[@placeholder='Enter value here']]
+2023-05-31 10:54:18.060 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.EditMappingPage -  Entering input value ...
+2023-05-31 10:54:18.082 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.EditMappingPage - All input parameters are.....[[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //input[@placeholder='Enter value here']], [[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //input[@placeholder='Enter value here']]]
+2023-05-31 10:54:18.082 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.EditMappingPage -  Clicking on element at index...1......[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //input[@placeholder='Enter value here']]
+2023-05-31 10:54:18.177 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on run button
+2023-05-31 10:54:18.532 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:22.724 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:22.837 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - clicking on Back arrowLink...
+2023-05-31 10:54:23.190 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:23.804 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-05-31 10:54:24.134 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-05-31 10:54:24.166 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Monitor
+2023-05-31 10:54:24.503 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:24.964 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow service execution')]
+2023-05-31 10:54:25.017 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Flow service execution
+2023-05-31 10:54:25.372 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:26.628 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'Filters')]
+2023-05-31 10:54:26.678 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Filters
+2023-05-31 10:54:27.088 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:27.282 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select projects')]
+2023-05-31 10:54:27.336 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select projects
+2023-05-31 10:54:36.774 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume31May1053')]
+2023-05-31 10:54:36.830 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume31May1053
+2023-05-31 10:54:37.203 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select Flow services')]
+2023-05-31 10:54:37.254 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select Flow services
+2023-05-31 10:54:42.566 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume')]
+2023-05-31 10:54:42.603 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume
+2023-05-31 10:54:42.949 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Apply')]
+2023-05-31 10:54:42.986 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Apply button
+2023-05-31 10:54:43.340 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:43.636 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:43.842 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:54:43.872 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Projects
+2023-05-31 10:54:44.269 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:44.600 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:54:44.762 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 10:54:44.936 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-05-31 10:54:45.258 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-05-31 10:54:45.593 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-05-31 10:54:45.886 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:46.215 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //span[contains(text(),'RestartResume31May1053')]]
+2023-05-31 10:54:46.536 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:47.564 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 10:54:47.608 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 10:54:47.934 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:54:48.207 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class=' dlt-icon-more-menu']
+2023-05-31 10:54:48.246 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on overview icon of Flowservice
+2023-05-31 10:54:48.535 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='dd-icons icons8-view-workflow']
+2023-05-31 10:54:48.564 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on overview link
+2023-05-31 10:54:48.916 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'Enable FlowService to be restarted')]
+2023-05-31 10:55:49.141 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 10:55:49.172 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Projects
+2023-05-31 10:55:49.636 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:55:49.853 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 10:56:50.136 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-05-31 10:56:50.167 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Monitor
+2023-05-31 10:56:50.498 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:56:51.018 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow service execution')]
+2023-05-31 10:56:51.064 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Flow service execution
+2023-05-31 10:56:51.398 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:56:52.292 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[contains(text(),'Filters')]
+2023-05-31 10:56:52.332 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Tree Main Menu Filters
+2023-05-31 10:56:52.688 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:56:52.836 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select projects')]
+2023-05-31 10:56:52.877 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select projects
+2023-05-31 10:57:02.281 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume31May1053')]
+2023-05-31 10:57:02.317 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume31May1053
+2023-05-31 10:57:02.776 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'Select Flow services')]
+2023-05-31 10:57:02.804 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter Select Flow services
+2023-05-31 10:57:08.172 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(text(),'RestartResume')]
+2023-05-31 10:57:08.208 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on filter RestartResume
+2023-05-31 10:57:08.576 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //button[contains(text(),'Apply')]
+2023-05-31 10:57:08.608 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Apply button
+2023-05-31 10:57:08.971 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:57:09.304 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@title='Resume flow execution from the point it failed in the previous run']
+2023-05-31 10:58:09.624 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime (//a[@title='RestartResume'])[2]
+2023-05-31 10:59:09.870 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-05-31 10:59:09.904 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Monitor
+2023-05-31 10:59:10.259 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 10:59:10.707 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services execution')]
+2023-05-31 11:00:10.924 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 11:00:10.961 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Projects
+2023-05-31 11:00:11.296 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:11.690 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 11:00:11.806 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 11:00:11.958 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Cicking on search project field
+2023-05-31 11:00:12.225 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering project name in search box
+2023-05-31 11:00:12.520 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on searchicon to search project
+2023-05-31 11:00:12.805 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:13.193 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Project [[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //span[contains(text(),'RestartResume31May1053')]]
+2023-05-31 11:00:13.442 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:14.413 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='tab-details']/ul/li/a/span[contains(text(),'Integrations')]
+2023-05-31 11:00:14.436 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Integrations
+2023-05-31 11:00:14.696 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:14.796 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Flow services')]
+2023-05-31 11:00:14.830 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on subMenu...Flow services
+2023-05-31 11:00:15.120 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:15.387 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //*[contains(@class,'title-flow-name')][text()='RestartResume']/ancestor::div[@class='top-section']/following-sibling::div[@class='bottom-section']//i[contains(@class,'more-menu')]
+2023-05-31 11:00:15.423 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click FlowServices MoreMenu
+2023-05-31 11:00:15.720 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:15.894 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on FlowService delete button
+2023-05-31 11:00:16.251 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:16.546 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify flow service delete confirm popup is visible
+2023-05-31 11:00:17.593 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on delete button
+2023-05-31 11:00:20.732 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify FlowService deleted successfully. message is visible
+2023-05-31 11:00:20.865 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:21.131 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify add flowservice plus icon is visible
+2023-05-31 11:00:21.282 [main] INFO  com.webMethodsUI.flow.pageObjects.flowService.FlowServicePage - Checking if flow services are empty
+2023-05-31 11:00:21.498 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[@title='webMethods.io Integration']
+2023-05-31 11:00:21.533 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on homeLogo.. 
+2023-05-31 11:00:21.896 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:22.300 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Projects')]
+2023-05-31 11:00:22.325 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify project menu is visible
+2023-05-31 11:00:22.437 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 11:00:22.607 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 11:00:22.758 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2023-05-31 11:00:22.945 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2023-05-31 11:00:23.122 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on projectpanel more menu
+2023-05-31 11:00:23.504 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify project delete button is present
+2023-05-31 11:00:23.723 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on delete button
+2023-05-31 11:00:30.579 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Project deleted successfully. message is present
+2023-05-31 11:00:30.748 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:36.074 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //a[contains(text(),'Monitor')]
+2023-05-31 11:00:36.128 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Clicking on Menu...Monitor
+2023-05-31 11:00:36.428 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2023-05-31 11:00:36.906 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - WaitHelper Object created....
+2023-05-31 11:00:36.919 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //h1[contains(text(),'Monitor')]] for :40seconds
+2023-05-31 11:00:36.947 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - element is visible now.....
+2023-05-31 11:00:36.947 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.MonitorPage - element is visible now....
+2023-05-31 11:00:36.947 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.MonitorPage - Clicking on General Text on Monitor Page.......  
+2023-05-31 11:00:36.963 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //span[contains(text(),'General')]] for :40seconds
+2023-05-31 11:00:36.978 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - element is visible now.....
+2023-05-31 11:00:37.028 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.MonitorPage - Clicking on Audit log  label on Monitor Page.......  
+2023-05-31 11:00:37.041 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //a[contains(text(),'Audit logs')]] for :40seconds
+2023-05-31 11:00:37.053 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - element is visible now.....
+2023-05-31 11:00:37.117 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.MonitorPage - Clicking on Audit log  label on Monitor Page.......  
+2023-05-31 11:00:37.135 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //*[contains(text(),'Usage')]] for :40seconds
+2023-05-31 11:00:37.163 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - element is visible now.....
+2023-05-31 11:00:38.230 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.MonitorPage - Clicking on Audit log  label on Monitor Page.......  
+2023-05-31 11:00:38.230 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //a[contains(text(),'Audit logs')]] for :40seconds
+2023-05-31 11:00:38.253 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - element is visible now.....
+2023-05-31 11:00:38.305 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - WaitHelper Object created....
+2023-05-31 11:00:38.332 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - waiting for :[[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //span[contains(text(),'12h')]] for :40seconds
+2023-05-31 11:00:38.360 [main] INFO  com.webMethodsUI.flow.helper.wait.WaitHelper - element is visible now.....
+2023-05-31 11:00:38.361 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage -  waiting   title text   in  Audit log Page...... [[ChromeDriver: chrome on WINDOWS (4db74d9b0e1c92565861cd6e141f69ae)] -> xpath: //span[contains(text(),'12h')]]
+2023-05-31 11:00:38.361 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage - clear the element
+2023-05-31 11:00:38.461 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage - Search the elementFlowService
+2023-05-31 11:00:40.557 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage -  Verifing    Audit log Page for  restart enable...... 
+2023-05-31 11:00:40.558 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage - RestartResume Verifing    Audit log Page for restart enable...... 
+2023-05-31 11:00:40.558 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage - RestartResume31May1053 Verifing    Audit log Page for restart enable...... 
+2023-05-31 11:00:40.595 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage -  Verifing    Audit log Page for  restart enable...... 
+2023-05-31 11:00:40.595 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage - RestartResume Verifing    Audit log Page for restart enable...... 
+2023-05-31 11:00:40.595 [main] INFO  com.webMethodsUI.flow.pageObjects.monitor.AuditLogsPage - RestartResume31May1053 Verifing    Audit log Page for restart enable...... 
