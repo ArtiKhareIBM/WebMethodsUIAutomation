@@ -6,7 +6,7 @@
 			class-name="com.webMethodsUI.flow.helper.listener.ExtentListener" />
 	</listeners>
 	 
-	<test name = "Publish Test case" >
+	<!--   <test name = "Publish Test case" >
 	    <classes>
 	      <class name = "com.webMethodsFlowUI.testsuites.WF_33814_PublishDeploy.WF_33814_Testcase" />
 	    </classes>
@@ -70,16 +70,29 @@
 					name="com.webMethodsFlowUI.testsuites.RestApiHavingPackageService.InvokingRestapiusingpkgservice" />
 
 		</classes>
-	</test>
+	</test> -->
 
-	<test name="AceRuntime">
+	<test name="GitHub Source Control">
 		<classes>
 			<class
-					name="com.webMethodsFlowUI.testsuites.ACERuntime.AceRuntime" />
+					name="com.webMethodsFlowUI.testsuites.GithubVersionControl.GithubVersionControlTestCase" />
 
 		</classes>
 	</test>
+	<test name="GitLab Source Control">
+		<classes>
+			<class
+					name="com.webMethodsFlowUI.testsuites.GitLabVersionControl.GitLabVersionControlTestCase" />
 
+		</classes>
+	</test>
+	<test name="Bitbucket Source Control">
+		<classes>
+			<class
+					name="com.webMethodsFlowUI.testsuites.BitbucketVersionControl.BitBucketVersionControlTestCase" />
+
+		</classes>
+	</test>	
 
 
 </suite> <!-- Suite -->

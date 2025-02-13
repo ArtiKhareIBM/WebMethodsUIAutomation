@@ -1,0 +1,78 @@
+2025-02-06 12:57:17.595 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (022099495a3165957f426d206667a308)
+2025-02-06 12:57:17.598 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 179233442
+2025-02-06 12:57:17.624 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 12:57:23.049 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 12:57:31.963 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: arti.spro6
+2025-02-06 12:57:32.144 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: Artisprotenant6!
+2025-02-06 12:57:34.350 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2025-02-06 12:57:37.368 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 12:57:37.479 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 12:57:37.608 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2025-02-06 12:57:40.877 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2025-02-06 13:04:37.346 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (bb3648af59b021f418dce7038057ef37)
+2025-02-06 13:04:37.349 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 179233442
+2025-02-06 13:04:37.371 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 13:04:42.824 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 13:04:52.344 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: arti.spro6
+2025-02-06 13:04:52.533 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: Artisprotenant6!
+2025-02-06 13:04:54.762 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2025-02-06 13:04:57.717 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 13:04:57.854 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 13:04:57.960 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2025-02-06 13:05:01.302 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2025-02-06 15:28:21.029 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (9a2d331aba26aea9d3a712d0f1f5ec43)
+2025-02-06 15:28:21.033 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 1279852178
+2025-02-06 15:28:21.064 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 15:28:26.696 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 15:35:52.301 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (ea05107fcb0d14a73fbdb2dd07b9b8cc)
+2025-02-06 15:35:52.310 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 1279852178
+2025-02-06 15:35:52.375 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 15:35:57.747 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 16:06:24.475 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (d8881ae362d50c2c2c69499041c2ca75)
+2025-02-06 16:06:24.478 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 254812619
+2025-02-06 16:06:24.507 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 16:06:31.046 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 16:06:43.054 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: arti.spro6
+2025-02-06 16:06:43.240 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: Artisprotenant6!
+2025-02-06 16:06:45.580 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2025-02-06 16:06:48.740 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 16:06:48.941 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 16:06:49.104 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2025-02-06 16:06:52.733 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2025-02-06 17:40:55.006 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (fdc50dc0c215ac57f193939b7934e9d7)
+2025-02-06 17:40:55.011 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 254812619
+2025-02-06 17:40:55.043 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 17:41:00.577 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 17:41:11.581 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: arti.spro6
+2025-02-06 17:41:11.760 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: Artisprotenant6!
+2025-02-06 17:41:13.965 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2025-02-06 17:41:17.090 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 17:41:17.214 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 17:41:17.344 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2025-02-06 17:41:20.691 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2025-02-06 17:52:35.491 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (507e6f8403929dc6b686f1c310c4c970)
+2025-02-06 17:52:35.495 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 254812619
+2025-02-06 17:52:35.524 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='delite-icon dlt-icon-profile']
+2025-02-06 17:53:05.932 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 17:53:07.703 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 17:53:18.436 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: arti.spro6
+2025-02-06 17:53:18.627 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: Artisprotenant6!
+2025-02-06 17:53:20.808 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2025-02-06 17:53:23.886 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 17:53:24.008 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 17:53:24.109 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2025-02-06 17:53:27.474 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2025-02-06 17:57:29.356 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - ChromeDriver: chrome on windows (9a551ed4e7ca6d4fb93e9bc33a3dcb2b)
+2025-02-06 17:57:29.360 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Initilize Web Driver: 1970707120
+2025-02-06 17:57:29.394 [main] INFO  com.webMethodsUI.flow.testbase.TestBase - Navigating to URLhttps://azsprotenant6.int-az-us.webmethods-spro.io/
+2025-02-06 17:57:33.936 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify username text field is visible
+2025-02-06 17:57:42.376 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering user Name: arti.spro6
+2025-02-06 17:57:42.574 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Entering Password: Artisprotenant6!
+2025-02-06 17:57:44.808 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Click on Login Button
+2025-02-06 17:57:47.786 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 17:57:47.922 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - wait for page load
+2025-02-06 17:57:48.031 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify Home page greet message is visible
+2025-02-06 17:57:51.600 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Verify create project plus button is visible
+2025-02-06 17:57:52.093 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //div[@class='notification-message']
+2025-02-06 17:57:52.294 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //i[@class='delite-icon dlt-icon-profile']
+2025-02-06 17:57:52.456 [main] INFO  com.webMethodsUI.flow.pageObjects.common.LoginPage - Fetching webelement at runtime //span[@data-eventmap='metadata-AccountDetailsDropdown-{"settings"}']

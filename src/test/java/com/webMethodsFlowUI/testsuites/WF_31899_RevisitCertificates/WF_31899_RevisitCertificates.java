@@ -124,7 +124,7 @@ public class WF_31899_RevisitCertificates extends TestBase {
         packageConnectorPage = new PackageConnectorPage(driver);
         packageConnectorPage.VerifyLebelIsVisible("Connector");
         packageConnectorPage.clickOnDownIcon();
-        packageConnectorPage.clickManageRuntime2();
+       // packageConnectorPage.clickManageRuntime2();
         packageConnectorPage.clickOnButton("Runtime");
        Thread.sleep(6000);
         packageConnectorPage.SelectRuntime(ACLERT);
