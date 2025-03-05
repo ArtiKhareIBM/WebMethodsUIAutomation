@@ -17,6 +17,7 @@ public class VersionControl extends CommonActions {
 	private WebDriver driver;
 	private Logger log = LogManager.getLogger(Oauthclientregistrationhomepage.class);
 	WaitHelper waitHelper;
+	public static WebElement notificationMessage;
 
 	public VersionControl(WebDriver driver) throws Exception {
 		super();
@@ -67,6 +68,10 @@ public class VersionControl extends CommonActions {
 	@CacheLookup
 	WebElement ValidateToken;
 
+	@FindBy(xpath = "//button[normalize-space()='Update']")
+	@CacheLookup
+	WebElement UpdateToken;
+	
 	@FindBy(xpath = "//button[normalize-space()='Add']")
 	@CacheLookup
 	WebElement AddVersionControl;
@@ -83,11 +88,66 @@ public class VersionControl extends CommonActions {
 	@CacheLookup
 	WebElement ConfirmDeleteAlert;
 
-	public void addVersionControl() throws Exception {
+	@FindBy(xpath = "//div[@class='notification-message']")
+	@CacheLookup
+	WebElement AlertforIncorrectDetails;
 
+	@FindBy(xpath = "//button[normalize-space()='Cancel']")
+	@CacheLookup
+	WebElement Cancel;
+
+	@FindBy(xpath = "//a[normalize-space(text())='Projects']")
+	@CacheLookup
+	WebElement Projects;
+
+	@FindBy(xpath = "//i[@class='delite-icon dlt-icon-plus']")
+	@CacheLookup
+	WebElement AddProject;
+
+	@FindBy(xpath = "//input[@id='new-project']")
+	@CacheLookup
+	WebElement AddProjectName;
+
+	@FindBy(xpath = "//button[normalize-space()='Create']")
+	@CacheLookup
+	WebElement CreateProjectButton;
+
+	@FindBy(xpath = "//button[normalize-space()='+Add']")
+	@CacheLookup
+	WebElement AddBUttonOnCreateProjectPopUp;
+
+	public void clickUserProfile() throws Exception {
+
+		logExtentReport("Click User Profile");
+		log.info("Click User Profile");
+		waitForElementVisible(UserProfile, driver, "wait for button to load:");
 		click(UserProfile, driver, "click on User profile..");
+
+	}
+
+	public void clickSettings() throws Exception {
+
+		logExtentReport("Click Settings");
+		log.info("Click Settings");
+		waitForElementVisible(Settings, driver, "wait for button to load:");
 		click(Settings, driver, "click on settings..");
+
+	}
+
+	public void clickVersionControlTab() throws Exception {
+
+		logExtentReport("Click VersionControl Tab");
+		log.info("Click VersionControl Tab");
+		waitForElementVisible(Version_control, driver, "wait for button to load:");
 		click(Version_control, driver, "click on Version Control tab..");
+
+	}
+
+	public void clickAddButtonOnVersionControlPage() throws Exception {
+
+		logExtentReport("click Add Button on in VersionControl Page");
+		log.info("click Add Button on in VersionControl Page");
+		waitForElementVisible(AddButton, driver, "wait for button to load:");
 		click(AddButton, driver, "click on Add Button..");
 
 	}
@@ -124,14 +184,49 @@ public class VersionControl extends CommonActions {
 
 	}
 
-	public void clickValidateAndAdd() throws Exception {
+	public void clickValidate() throws Exception {
 
-		logExtentReport("click Validate And Add...");
-		log.info("click Validate And Add...");
-		isElementEnabled(ValidateToken, driver, "click Validate And Add...");
+		logExtentReport("click Validate ...");
+		log.info("click Validate ...");
+		isElementEnabled(ValidateToken, driver, "click Validate ...");
 		click(ValidateToken, driver, "click on Validate Button..");
+
+	}
+
+	public void clickAdd() throws Exception {
+
+		logExtentReport("click Add...");
+		log.info("click Add...");
 		click(AddVersionControl, driver, "click on Add Version Control Button..");
-		waitForElementVisible(NotificationMessage, driver, "checking success notification message for add success");
+		waitForElementVisible(NotificationMessage, driver, "click on Add Version Control Button..");
+
+	}
+	
+	public void clickUpdate() throws Exception {
+
+		logExtentReport("click Update ...");
+		log.info("click Update ...");
+		isElementEnabled(UpdateToken, driver, "click Update ...");
+		click(UpdateToken, driver, "click on Update Button..");
+		waitForElementVisible(NotificationMessage, driver, "click on Add Version Control Button..");
+
+
+	}
+
+	public void verifyAlertMsgforIncorrectDetails() throws Exception {
+
+		logExtentReport("verify Alert Msg for Incorrect Details...");
+		log.info("verify Alert Msg for Incorrect Details..");
+		waitForElementVisible(AlertforIncorrectDetails, driver, "verify Alert Msg for Incorrect Details");
+
+	}
+
+	public void clickCancel() throws Exception {
+
+		logExtentReport("click Cancel...");
+		log.info("click Cancel...");
+		isElementEnabled(Cancel, driver, "click Cancel ...");
+		click(Cancel, driver, "click Cancel..");
 
 	}
 
@@ -148,13 +243,59 @@ public class VersionControl extends CommonActions {
 
 	}
 
-	/*
-	 * public void validateElementNotVisible(String srcCtrl) throws Exception {
-	 * String element = "//span[normalize-space(),'srcCtrl')]";
-	 * waitForElementNotVisible(element, driver,
-	 * "wait for page load, source control should not be visible");
-	 * 
-	 * }
-	 */
+	public void editSourceControlFromVersionControl(String srcCtrl) throws Exception {
+
+		logExtentReport("Update Source Control with valid token...");
+		log.info("Update Source Control with valid token...");
+		WebElement element = findElement("//span[normalize-space()='" + srcCtrl
+				+ "']/ancestor::div[@class='git-account-row row']//a[contains(@title, 'Edit')]", driver);
+		click(element, driver, "Click Edit Source Control button  :");
+
+		log.info(" Edit Source Control button Clicked..");
+
+	}
+
+	public void clickProjects() throws Exception {
+
+		logExtentReport("click Projects....");
+		log.info("click Projects.......");
+		waitForElementVisible(Projects, driver, "wait for Projects tab tobe visible");
+		click(Projects, driver, "click Projects..");
+
+	}
+
+	public void clickAddProject() throws Exception {
+
+		logExtentReport("Create Add Project ...");
+		log.info("Create Add Project ......");
+		waitForElementVisible(AddProject, driver, "wait for Add Project to be visible");
+		click(AddProject, driver, "click Add Project..");
+	}
+
+	public void enterProjectName(String projectname) throws Exception {
+
+		logExtentReport("Entering projectname");
+		log.info("Entering projectname");
+		enterValue(AddProjectName, projectname, driver, "Enter the User name " + projectname);
+	}
+
+	public void clickAddBUttonOnCreateProjectPopUp() throws Exception {
+
+		logExtentReport("click Add BUtton On Create Project PopUp");
+		log.info("click Add BUtton On Create Project PopUp.");
+		waitForElementVisible(AddBUttonOnCreateProjectPopUp, driver,
+				"wait for Add Button on create Project pop up to be visible");
+		click(AddBUttonOnCreateProjectPopUp, driver, "click AddBUttonOnCreateProjectPopUp..");
+	}
+
+	public void clickCreateProjectButton() throws Exception {
+
+		logExtentReport("click create project button");
+		log.info("click create project button");
+		click(CreateProjectButton, driver, "Click create project button ");
+		elementContainsText(notificationMessage, "Project created successfully.", driver,
+				"Verify project created successfully message is visible");
+
+	}
 
 }

@@ -29,16 +29,16 @@
 			<class
 				name="com.webMethodsFlowUI.testsuites.GithubVersionControl.GithubVersionControlTestCase" />
 
-		</classes>
+		</classes> 
 	</test>
-	<test name="GitLab Source Control">
+	 <test name="GitLab Source Control">
 		<classes>
 			<class
 				name="com.webMethodsFlowUI.testsuites.GitLabVersionControl.GitLabVersionControlTestCase" />
 
 		</classes>
 	</test>
-	<test name="Bitbucket Source Control">
+	<test name="BitBucket Source Control">
 		<classes>
 			<class
 				name="com.webMethodsFlowUI.testsuites.BitbucketVersionControl.BitBucketVersionControlTestCase" />
