@@ -46,7 +46,7 @@ public class GithubVersionControlTestCase extends TestBase {
 	public void createGithubSourceControlAccount() throws Exception {
 
 		versionControl = new VersionControl(driver);
-		versionControl.clickUserProfile();
+		// versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		versionControl.clickAddButtonOnVersionControlPage();
@@ -68,7 +68,7 @@ public class GithubVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+		// versionControl.clickUserProfile(); 
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		packageConnectorPage.VerifyElementVisible(srcCtrl);
@@ -85,7 +85,7 @@ public class GithubVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+		//versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		packageConnectorPage.VerifyElementVisible(srcCtrl);
@@ -129,8 +129,8 @@ public class GithubVersionControlTestCase extends TestBase {
 	public void create_GithubSourceControl_Account_with_InvalidToken() throws Exception {
 
 		versionControl = new VersionControl(driver);
-		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+		Thread.sleep(3000); 
+	//	versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		versionControl.clickAddButtonOnVersionControlPage();

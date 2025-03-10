@@ -31,16 +31,23 @@ public class VersionControl extends CommonActions {
 	@FindBy(xpath = "//i[@class='delite-icon dlt-icon-profile']")
 	@CacheLookup
 	WebElement UserProfile;
+	
+	/*
+	 * @FindBy(xpath =
+	 * "//span[@data-eventmap='metadata-AccountDetailsDropdown-{\"settings\"}']")
+	 * 
+	 * @CacheLookup WebElement Settings;
+	 */
 
-	@FindBy(xpath = "//span[@data-eventmap='metadata-AccountDetailsDropdown-{\"settings\"}']")
+	@FindBy(xpath = "//a[@title='Settings']")
 	@CacheLookup
 	WebElement Settings;
-
+	
 	@FindBy(xpath = "//span[normalize-space()='Version control']")
 	@CacheLookup
 	WebElement Version_control;
 
-	@FindBy(xpath = "//button[@type='button']")
+	@FindBy(xpath = "//button[normalize-space()='+Add']")
 	@CacheLookup
 	WebElement AddButton;
 

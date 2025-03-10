@@ -42,7 +42,7 @@ public class HomePage extends CommonActions{
 	@CacheLookup
 	WebElement ProjectsMenu;
 
-	@FindBy(xpath = "//i[@class='delite-icon dlt-icon-plus']")
+	@FindBy(xpath = "//i[@class='wm-int-icon-add']")
 	@CacheLookup
 	WebElement createProjectPlusButton;
 

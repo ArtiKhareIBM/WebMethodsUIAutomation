@@ -39,7 +39,7 @@ public class BitBucketVersionControlTestCase extends TestBase {
 	public void createBitbucketSourceControl() throws Exception {
 
 		versionControl = new VersionControl(driver);
-		versionControl.clickUserProfile();
+		//versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		versionControl.clickAddButtonOnVersionControlPage();
@@ -61,7 +61,7 @@ public class BitBucketVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+	//	versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		packageConnectorPage.VerifyElementVisible(srcCtrl);
@@ -80,7 +80,7 @@ public class BitBucketVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+	//	versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		versionControl.editSourceControlFromVersionControl(srcCtrl);
@@ -103,7 +103,7 @@ public class BitBucketVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+	//	versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		versionControl.clickAddButtonOnVersionControlPage();

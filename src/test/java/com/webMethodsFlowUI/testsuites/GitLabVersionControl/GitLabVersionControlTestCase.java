@@ -40,7 +40,7 @@ public class GitLabVersionControlTestCase extends TestBase {
 	public void createGitLabSourceControl() throws Exception {
 
 		versionControl = new VersionControl(driver);
-		versionControl.clickUserProfile();
+		//versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		versionControl.clickAddButtonOnVersionControlPage();
@@ -63,7 +63,7 @@ public class GitLabVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+		//versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		packageConnectorPage.VerifyElementVisible(srcCtrl);
@@ -83,7 +83,7 @@ public class GitLabVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+	//	versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		packageConnectorPage.VerifyElementVisible(srcCtrl);
@@ -108,7 +108,7 @@ public class GitLabVersionControlTestCase extends TestBase {
 
 		versionControl = new VersionControl(driver);
 		Thread.sleep(3000);
-		versionControl.clickUserProfile();
+	//	versionControl.clickUserProfile();
 		versionControl.clickSettings();
 		versionControl.clickVersionControlTab();
 		versionControl.clickAddButtonOnVersionControlPage();
